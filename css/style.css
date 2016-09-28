@@ -1,7 +1,7 @@
 #index_body{
 	margin: 0px;
-	background-color: #ffffff;
-  	background-image: -webkit-gradient(linear, left top, left bottom, from(yellow), to(red));
+	background-color: #ffff00;
+  	/*background-image: -webkit-gradient(linear, left top, left bottom, from(yellow), to(red));
   	background-image: -webkit-linear-gradient(top, yellow, red);
   	background-image:    -moz-linear-gradient(top, yellow, red);
   	background-image:      -o-linear-gradient(top, yellow, red);
