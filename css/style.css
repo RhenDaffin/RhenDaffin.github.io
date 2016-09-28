@@ -1,7 +1,8 @@
 #index_body{
 	border:	10px solid red;
-	width: 400px;
+	width: 600px;
 	margin: 0px;
+	text-align: center;
 	background-color: #FAED03;
   	/*background-image: -webkit-gradient(linear, left top, left bottom, from(yellow), to(red));
   	background-image: -webkit-linear-gradient(top, yellow, red);
