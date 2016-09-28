@@ -1,15 +1,24 @@
 #index_body{
-	margin: 0px;
+	/*margin: 0px;
 	background-color: #ffffff;
   	background-image: -webkit-gradient(linear, left top, left bottom, from(yellow), to(red));
   	background-image: -webkit-linear-gradient(top, yellow, red);
   	background-image:    -moz-linear-gradient(top, yellow, red);
   	background-image:      -o-linear-gradient(top, yellow, red);
-  	background-image:         linear-gradient(to bottom, yellow, red);
+  	background-image:         linear-gradient(to bottom, yellow, red);*/
 	/*background-image: url("../images/HENRY_loading_screen.png");*/
 	/*background-color: blue;*/
 	/*background-size: cover;*/
 	/*background-color: yellow;*/
+	div { 
+  width: 200px;
+  height: 200px;
+  background-size: 200px 200px;
+  background-repeat:no-repeat;
+  background-image: #ffff00;
+  background-blend-mode: color-dodge;
+}
+
 }
 
 #main_header{
