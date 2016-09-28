@@ -3,16 +3,6 @@
 	width: 600px;
 	margin: auto;
 	background-color: #FAED03;
-  	/*background-image: -webkit-gradient(linear, left top, left bottom, from(yellow), to(red));
-  	background-image: -webkit-linear-gradient(top, yellow, red);
-  	background-image:    -moz-linear-gradient(top, yellow, red);
-  	background-image:      -o-linear-gradient(top, yellow, red);
-  	background-image:         linear-gradient(to bottom, yellow, red);
-	/*background-image: url("../images/HENRY_loading_screen.png");*/
-	/*background-color: blue;*/
-	/*background-size: cover;*/
-	/*background-color: yellow;*/
-
 }
 
 #main_header{
@@ -51,7 +41,7 @@ li a{
 
 #signup li{
 	padding: 10px;
-	border:  5px solid black;
+	/*border:  5px solid black;*/
 	width: 270px;
 	margin: 5px auto;
 	text-align: center;
