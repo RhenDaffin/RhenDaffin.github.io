@@ -1,0 +1,64 @@
+#index_body{
+	margin: 0px;
+	background-color: #ffffff;
+  	background-image: -webkit-gradient(linear, left top, left bottom, from(yellow), to(red));
+  	background-image: -webkit-linear-gradient(top, yellow, red);
+  	background-image:    -moz-linear-gradient(top, yellow, red);
+  	background-image:      -o-linear-gradient(top, yellow, red);
+  	background-image:         linear-gradient(to bottom, yellow, red);
+	/*background-image: url("../images/HENRY_loading_screen.png");*/
+	/*background-color: blue;*/
+	/*background-size: cover;*/
+	/*background-color: yellow;*/
+}
+
+#main_header{
+	margin: 0px;
+}
+
+#title{
+	margin: 0 0 10px 0;
+	text-align: center;
+}
+
+#main_footer{
+	text-align:	center;
+}
+
+#logo{
+	text-align: center;
+	margin:	auto;
+	width: 400px;
+}
+
+#signup{
+	margin: 25px;
+}
+
+#signup ul{
+	border:	3px solid red;
+	margin: auto;
+	width: 400px;
+	padding: 0px;
+}
+
+li a{
+	color: white;
+}
+
+#signup li{
+	padding: 10px;
+	border:  1px solid black;
+	width: 270px;
+	margin: 5px auto;
+	text-align: center;
+	list-style-type: none;
+}
+
+
+
+.center_text{
+	text-align: center;
+}
+
+/*  -----   Home screen stuff  -----   */
