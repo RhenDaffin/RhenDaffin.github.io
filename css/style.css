@@ -2,7 +2,6 @@
 	border: 10px solid red;
 	width: 600px;
 	margin: auto;
-	padding-left: 50px;
 	background-color: #FAED03;
   	/*background-image: -webkit-gradient(linear, left top, left bottom, from(yellow), to(red));
   	background-image: -webkit-linear-gradient(top, yellow, red);
@@ -40,19 +39,19 @@
 }
 
 #signup ul{
-	border:	3px solid red;
+	border:	10px solid red;
 	margin: auto;
 	width: 400px;
 	padding: 0px;
 }
 
 li a{
-	color: white;
+	color: black;
 }
 
 #signup li{
 	padding: 10px;
-	border:  1px solid black;
+	border:  5px solid black;
 	width: 270px;
 	margin: 5px auto;
 	text-align: center;
