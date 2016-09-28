@@ -10,14 +10,6 @@
 	/*background-color: blue;*/
 	/*background-size: cover;*/
 	/*background-color: yellow;*/
-	div { 
-  width: 200px;
-  height: 200px;
-  background-size: 200px 200px;
-  background-repeat:no-repeat;
-  background-image: #ffff00;
-  background-blend-mode: color-dodge;
-}
 
 }
 
