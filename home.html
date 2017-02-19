@@ -1,16 +1,12 @@
 	
-	<!DOCTYPE html>
-<html>
+	<!DOCTYPE html<html>
 
 	<head>
 		<title>H.E.N.R.Y Home</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 	</head>
-
-
 	<body id="index_body">
 		<div id="container"> 
-
 			<header id="main_header">
 				<div id="title">
 					<h1><br><span>H.E.N.R.Y</span></h1>
@@ -32,8 +28,8 @@
 			<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">New User</button>
 
 			<!--<button onclick="popupFunction()">Try it</button> -->
-			<script>
-			<p id="demo"></p>
+		<script>
+		function myFunction() {
     			var x;
     			if (confirm("Your Fitbit data will be used by our H.E.N.R.Y. Project Research Team!") == true) {
         			x = "You pressed OK!";
@@ -41,6 +37,8 @@
         			x = "You pressed Cancel!";
 		   	}
 		    	document.getElementById("demo").innerHTML = x;
+		}
+		myFunction();
 		</script>
 			
 		
