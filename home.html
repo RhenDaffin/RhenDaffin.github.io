@@ -33,11 +33,16 @@
 
 			<!--<button onclick="popupFunction()">Try it</button> -->
 			<script>
+			<p id="demo"></p>
+    			var x;
+    			if (confirm("Your Fitbit data will be used by our H.E.N.R.Y. Project Research Team!") == true) {
+        			x = "You pressed OK!";
+    			} else {
+        			x = "You pressed Cancel!";
+		   	}
+		    	document.getElementById("demo").innerHTML = x;
+		</script>
 			
-			
-			    alert("Your Fitbit data will be used by our H.E.N.R.Y. Project Research Team!");
-			
-			</script>
 		
 
                         <div class="modal-footer">
