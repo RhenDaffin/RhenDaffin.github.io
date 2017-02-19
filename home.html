@@ -29,16 +29,16 @@
 
 			<!--<button onclick="popupFunction()">Try it</button> -->
 		<script>
-		function myFunction() {
+		function popupFunction() {
     			var x;
     			if (confirm("Your Fitbit data will be used by our H.E.N.R.Y. Project Research Team!") == true) {
-        			x = "You pressed OK!";
+        			x = "yes";
     			} else {
-        			x = "You pressed Cancel!";
+        			x = "no";
 		   	}
-		    	document.getElementById("demo").innerHTML = x;
+		    	<!-- we can save the x value to database -->
 		}
-		myFunction();
+		popupFunction();
 		</script>
 			
 		
